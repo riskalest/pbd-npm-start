@@ -1,0 +1,15 @@
+{
+  "name": "pbd-npm-start",
+  "version": "1.0.0",
+  "description": "Belajar nodeJS 1",
+  "main": "appPer-2.js",
+  "scripts": {
+    "start": "node appPer-2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pbd-npm-start"
+  },
+  "author": "Riska Lestari",
+  "license": "ISC"
+}
